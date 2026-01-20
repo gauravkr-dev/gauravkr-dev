@@ -1,34 +1,32 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">A passionate developer who loves building meaningful digital products</h3>
 
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img 
+        src="https://portfolio-silk-rho-58.vercel.app/about-image.svg" 
+        alt="Developer Illustration"
+        width="100%"
+      />
+    </td>
+    <td width="50%" valign="top">
+      
+  ### Full Stack Web Developer & Project Manager
 
----
+I am a **first-year student at IIT Guwahati**, with a strong passion for **modern web development**.
 
-### 👋 Welcome to my GitHub profile
+I enjoy building **clean, fast, and user-friendly** web applications using **modern technologies**.
 
-I’m **Gaurav**, a first-year student at **IIT Guwahati**, deeply interested in **modern web development and AI-powered applications**.  
-I enjoy turning ideas into real-world projects and continuously learning new technologies.
+I like learning how real-world products are built and continuously improving my skills through projects.
 
+I believe in writing **simple, efficient code** and growing every day as a **developer** and as a **person**.
 
----
+I am **curious, motivated**, and always ready to learn **new things** 🚀
 
-### 🌐 Want to know more about me?
-For detailed information about my skills, projects, and work,  
-👉 **visit my portfolio website**:
+<br/>
 
-🔗 **https://portfolio-silk-rho-58.vercel.app/**
+  </tr>
+</table>
 
----
-
-### 🚀 What you’ll find here
-- Personal & academic projects  
-- Full-stack web applications  
-- Experiments with modern technologies  
-- Learning-based repositories  
-
----
-
-Thanks for stopping by! 😊  
-Feel free to explore my repositories and connect with me.
 
