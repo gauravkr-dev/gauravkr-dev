@@ -22,8 +22,6 @@ I believe in writing `simple`, `efficient code` and growing every day as a
 I am `curious`, `motivated`, and always ready to learn `new things` 🚀
 
 
-[![Let's Work Together](https://img.shields.io/badge/Let's%20Work%20Together-6f6ae1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravkumar803109@gmail.com)
-
   </td>
     <td width="45%" align="center-bottom">
       <img 
