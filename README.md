@@ -29,7 +29,7 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
   </td>
     <td width="50%" align="center-bottom">
       <img 
-        src="https://portfolio-silk-rho-58.vercel.app/about-image.svg" 
+        src="[https://portfolio-silk-rho-58.vercel.app/about-image.svg](http://localhost:5173/about-image.svg)" 
         alt="Developer Illustration"
         width="100%"
       />
@@ -44,7 +44,7 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
   </td>
     <td width="50%" align="center-bottom">
       <img 
-        src="https://portfolio-silk-rho-58.vercel.app/connect-image.svg" 
+        src="[https://portfolio-silk-rho-58.vercel.app/connect-image.svg](http://localhost:5173/connect-image.svg)" 
         alt="Developer Illustration"
         width="100%"
       />
