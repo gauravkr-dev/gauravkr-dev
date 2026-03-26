@@ -60,7 +60,7 @@ If you're looking for someone who enjoys building
 I'd love to connect.
 
 You can explore my work and projects here 👉  
-🔗 https://gauravkr-dev.vercel.app/
+🔗 https://gauravkr-dev.vercel.app
 
 Feel free to reach out anytime — I’m always excited to learn, collaborate, 
 and build something `meaningful`, `useful`, and `impactful` 🚀
