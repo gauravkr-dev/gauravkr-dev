@@ -29,7 +29,7 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
   </td>
     <td width="50%" align="center-bottom">
       <img 
-        src="https://portfolio-silk-rho-58.vercel.app/about-image.svg"
+        src="https://gauravkr-dev.vercel.app/about-image.svg"
         alt="Developer Illustration"
         width="100%"
       />
@@ -44,7 +44,7 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
   </td>
     <td width="50%" align="center-bottom">
       <img 
-        src="https://portfolio-silk-rho-58.vercel.app/connect-image.svg" 
+        src="https://gauravkr-dev.vercel.app/connect-image.svg" 
         alt="Developer Illustration"
         width="100%"
       />
@@ -60,7 +60,7 @@ If you're looking for someone who enjoys building
 I'd love to connect.
 
 You can explore my work and projects here 👉  
-🔗 https://portfolio-silk-rho-58.vercel.app/
+🔗 https://gauravkr-dev.vercel.app/
 
 Feel free to reach out anytime — I’m always excited to learn, collaborate, 
 and build something `meaningful`, `useful`, and `impactful` 🚀
