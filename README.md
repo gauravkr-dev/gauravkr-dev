@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 
-<h3 align="center">Full Stack Web Developer & Project Manager</h3>
+<h3 align="center">Full Stack Web Developer | Next.js & TypeScript | MERN</h3>
 <table>
   <tr>
     <td width="50%" valign="center">
