@@ -7,7 +7,7 @@
 
     
 
-I am a first-year student at `IIT Guwahati`, with a strong passion for 
+I am a student at `IIT Guwahati`, with a strong passion for 
 `modern web development`.
 
 I enjoy building `clean`, `fast`, and `user-friendly` web applications using 
@@ -59,8 +59,9 @@ If you're looking for someone who enjoys building
 `clean`, `fast`, and `user-friendly` web applications, 
 I'd love to connect.
 
-You can explore my work and projects here 👉  
-🔗 https://gauravkr-dev.vercel.app
+You can explore my work and projects here 
+
+👉   https://gauravkr-dev.vercel.app
 
 Feel free to reach out anytime — I’m always excited to learn, collaborate, 
 and build something `meaningful`, `useful`, and `impactful` 🚀
