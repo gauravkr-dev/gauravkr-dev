@@ -58,7 +58,6 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
 ![C++](https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=black)
 
-<br>
 
 ### 🎨 Frontend
 
@@ -71,7 +70,6 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br>
 
 ### ⚙️ Backend & Real-time
 
@@ -82,7 +80,6 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
 ![Zod](https://img.shields.io/badge/Zod-3e67b1?style=for-the-badge&logoColor=white)
 ![Inngest](https://img.shields.io/badge/Inngest-6366f1?style=for-the-badge&logoColor=white)
 
-<br>
 
 ### 💾 Database & Authentication
 
@@ -97,7 +94,6 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=auth0&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-4285f4?style=for-the-badge&logo=google&logoColor=white)
 
-<br>
 
 ### 🛠️ Tools & Platforms
 
