@@ -42,11 +42,15 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
   </tr>
 </table>
 
+<br>
+
 ## ⚡ Tech Stack
 
-<div align="center">
+<br>
 
-### 💻 Languages
+<div align="center">
+  
+### 👨‍💻 Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,6 +58,7 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
 ![C++](https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=black)
 
+<br>
 
 ### 🎨 Frontend
 
@@ -66,6 +71,7 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 
+<br>
 
 ### ⚙️ Backend & Real-time
 
@@ -76,8 +82,9 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
 ![Zod](https://img.shields.io/badge/Zod-3e67b1?style=for-the-badge&logoColor=white)
 ![Inngest](https://img.shields.io/badge/Inngest-6366f1?style=for-the-badge&logoColor=white)
 
+<br>
 
-### 🗄️ Database & Authentication
+### 💾 Database & Authentication
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -90,6 +97,7 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=auth0&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-4285f4?style=for-the-badge&logo=google&logoColor=white)
 
+<br>
 
 ### 🛠️ Tools & Platforms
 
@@ -103,7 +111,7 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
 
 </div>
 
-<br><br>
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauravkr-dev&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
