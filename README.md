@@ -46,7 +46,6 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
 
 ## ⚡ Tech Stack
 
-<br>
 
 <div align="center">
   
