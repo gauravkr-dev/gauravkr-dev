@@ -34,7 +34,7 @@ I am `curious`, `motivated`, and always ready to learn `new things` 🚀
   </td>
     <td width="50%" align="center-bottom">
       <img 
-        src="https://gauravkr-dev.vercel.app/about-image.svg"
+        src="https://gauravkr.vercel.app/about-image.svg"
         alt="Developer Illustration"
         width="100%"
       />
